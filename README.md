@@ -69,6 +69,6 @@ const foodsList = food.map((item) => (
 ));
 ```
 
-key helps React identify which items changed, were added, or removed.
-Keys should be unique and stable (like id).
+<p>key helps React identify which items changed, were added, or removed.</p>
+<p>Keys should be unique and stable (like id).</p>
 
