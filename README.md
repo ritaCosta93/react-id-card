@@ -1,4 +1,4 @@
-# React User Profile Project
+# React Id Card
 
 This project is a simple React app built with **Vite** that demonstrates how to work with **components, props, and lists** in React.  
 It displays user details and their favorite foods using reusable components.
