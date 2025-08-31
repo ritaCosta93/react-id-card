@@ -24,6 +24,7 @@ npm run dev
 - Recreate the App component as a functional component.
 
 ### 3. Project Structure
+```markdown
 src/
  ├── components/
  │    ├── UserProfile.jsx
@@ -34,6 +35,7 @@ src/
  └── globals.css
 ├── App.jsx
 └── main.jsx
+```
 
 ### 4. Components
 A component is always a function that returns JSX.
