@@ -5,7 +5,7 @@ It displays user details and their favorite foods using reusable components.
 
 ---
 
-![React Id Card](./public/screenshot)
+![React Id Card](./public/screenshot.png)
 
 ## 🚀 Getting Started
 
