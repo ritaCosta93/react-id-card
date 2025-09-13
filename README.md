@@ -5,6 +5,8 @@ It displays user details and their favorite foods using reusable components.
 
 ---
 
+![React Id Card](./public/screenshot)
+
 ## 🚀 Getting Started
 
 ### 1. Run this project
